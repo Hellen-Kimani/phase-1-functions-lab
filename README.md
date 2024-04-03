@@ -54,7 +54,7 @@ To complete all of your work assignments, you'll need to write four functions:
   to the pickup location. Use your `distanceFromHqInBlocks` function to
   help return the correct value here. Try something like this:
 
-```js
+```jsty6
 function distanceFromHqInFeet(someValue) {
   distanceFromHqInBlocks(someValue);
   // call the distanceFromHqInBlocks function from inside the distanceFromHqInFeet function,
